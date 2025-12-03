@@ -1,4 +1,4 @@
-# Modelos de Exploración y Operaciones Mineras (Proyecto Demo)
+# Modelos de Exploración y Operaciones Mineras (Proyectos Demo)
 
 Repositorio con notebooks en Python para simular y analizar
 un yacimiento de cobre tipo IOCG/manto, inspirado en faenas 
