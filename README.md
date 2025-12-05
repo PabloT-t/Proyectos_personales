@@ -23,6 +23,7 @@ la mejor configuracion del metodo de entrenamiento para maximizar r2.
 Objetivo: Generación de blancos de exploración para depósitos tipo IOCG en la Franja Ferrífera de Atacama, integrando teledetección y cartografía oficial.
 
 Metodología
+
 Datas: Integración de imágenes satelitales ASTER L1T (Bandas SWIR) con cartografía vectorial de Sernageomin (Fallas, Litología, Yacimientos).
 
 Variables:
