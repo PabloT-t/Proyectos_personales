@@ -38,4 +38,4 @@ Machine Learning: Entrenamiento de un Random Forest con: Optimización de Hiperp
 
 Validación: Auditoría de robustez mediante Spatial Cross-Validation (K-Fold Espacial), logrando un AUC ~0.75 en zonas no entrenadas.
 
-Nota Técnica: Este modelo constituye una Prueba de Concepto (Proof of Concept). Los parámetros de influencia geológica son estimaciones teóricas para validar el flujo de trabajo computacional.
+Nota Técnica: Este modelo constituye una Prueba. Los parámetros de influencia geológica son estimaciones teóricas para validar el flujo de trabajo computacional.
