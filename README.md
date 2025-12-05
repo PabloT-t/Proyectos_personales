@@ -4,6 +4,8 @@ Repositorio con notebooks en Python para simular y analizar
 un yacimiento de cobre tipo IOCG/manto, inspirado en faenas 
 de la Faja de Hierro chilena (Mantoverde, Costa Fuego, etc.).
 
+*Debo aclarar que estos proyectos utilizan IA Generativa como asistente técnico para acelerar la implementación de código y depuración, logrando crear este repositorio en 4-5 dias con diversas aplicaciones. Lo anterior no quita el hecho de que se reviso linea por linea la sintaxis y logica de cada codigo. Mi pensamiento personal, es que las herramientas que pueden acelerar cosas que se hacen en meses a dias, pueden explotarse responsablemente. Por que no sirve tener los mejores datos sino tienes las mejores herramientas.*
+
 ## Contenido
 
 - `Exploracion_1.ipynb`: análisis exploratorio inicial, generación de un modelo simple. Con geoquimica y magnetometria simuladas, se añade tambien cercania
