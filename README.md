@@ -16,7 +16,9 @@ que deberian existir previamente se simula la llegada de nuevos datos sin saber 
 Todo es simulado, pero se usa como referencia valores cercanos a los de mantos verdes para simular realidad. Tambien se aplica un analisis de
 la mejor configuracion del metodo de entrenamiento para maximizar r2.
 
-PROYECTO MÁS REALISTA: Prospectividad IOCG (Datos Reales)--->Modelo_prospectivo_Atacama_ML.ipynb
+-------------------------------------------------------------------------------------
+
+**Prospectividad IOCG (Datos Reales)**--->Modelo_prospectivo_Atacama_ML.ipynb
 Objetivo: Generación de blancos de exploración para depósitos tipo IOCG en la Franja Ferrífera de Atacama, integrando teledetección y cartografía oficial.
 
 Metodología
