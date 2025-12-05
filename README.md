@@ -19,6 +19,7 @@ la mejor configuracion del metodo de entrenamiento para maximizar r2.
 -------------------------------------------------------------------------------------
 
 **Prospectividad IOCG (Datos Reales)**--->Modelo_prospectivo_Atacama_ML.ipynb
+
 Objetivo: Generación de blancos de exploración para depósitos tipo IOCG en la Franja Ferrífera de Atacama, integrando teledetección y cartografía oficial.
 
 Metodología
