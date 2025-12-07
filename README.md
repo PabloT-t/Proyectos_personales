@@ -20,11 +20,11 @@ la mejor configuracion del metodo de entrenamiento para maximizar r2.
 
 -------------------------------------------------------------------------------------
 
-**Prospectividad IOCG (Datos Reales)**--->Modelo_prospectivo_Atacama_ML.ipynb
+**Prospectividad IOCG (Datos Reales)-ModeloProspectivo_Atacama_ML.ipynb**
 
-Objetivo: Generación de blancos de exploración para depósitos tipo IOCG en la Franja Ferrífera de Atacama, integrando teledetección y cartografía oficial.
+- Objetivo: Generación de blancos de exploración para depósitos tipo IOCG en la Franja Ferrífera de Atacama, integrando teledetección y cartografía oficial.
 
-Metodología
+- Metodología
 
 Data: Integración de imágenes satelitales ASTER L1T (Bandas SWIR) con cartografía vectorial de Sernageomin (Fallas, Litología, Yacimientos, Contactos, Pliegues).
 
@@ -32,4 +32,4 @@ Machine Learning: Entrenamiento de un Random Forest.
 
 Validación: Validacion mediante Spatial Cross-Validation (K-Fold Espacial), logrando un AUC ~0.66 en zonas no entrenadas.
 
-Nota Técnica: Este modelo constituye una Prueba. Los parámetros de influencia geológica son estimaciones teóricas para validar el flujo de trabajo computacional.
+*Nota Técnica: Este modelo constituye una Prueba. Los parámetros de influencia geológica son estimaciones teóricas para validar el flujo de trabajo computacional.*
