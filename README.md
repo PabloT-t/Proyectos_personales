@@ -26,18 +26,10 @@ Objetivo: Generación de blancos de exploración para depósitos tipo IOCG en la
 
 Metodología
 
-Datas: Integración de imágenes satelitales ASTER L1T (Bandas SWIR) con cartografía vectorial de Sernageomin (Fallas, Litología, Yacimientos).
+Data: Integración de imágenes satelitales ASTER L1T (Bandas SWIR) con cartografía vectorial de Sernageomin (Fallas, Litología, Yacimientos, Contactos, Pliegues).
 
-Variables:
+Machine Learning: Entrenamiento de un Random Forest.
 
-Cálculo de Ratios Espectrales para detección de alteración hidrotermal (Arcillas/Micas).
-
-Aplicación de Lógica Fuzzy Sigmoidal para modelar la influencia decreciente de Fallas y Contactos Intrusivos.
-
-Filtros litológicos para roca huésped favorable (Cretácico/Intrusivos).
-
-Machine Learning: Entrenamiento de un Random Forest con: Optimización de Hiperparámetros (RandomizedSearchCV) y balanceo de clases (Estrategia de submuestreo 1:10).
-
-Validación: Auditoría de robustez mediante Spatial Cross-Validation (K-Fold Espacial), logrando un AUC ~0.75 en zonas no entrenadas.
+Validación: Validacion mediante Spatial Cross-Validation (K-Fold Espacial), logrando un AUC ~0.66 en zonas no entrenadas.
 
 Nota Técnica: Este modelo constituye una Prueba. Los parámetros de influencia geológica son estimaciones teóricas para validar el flujo de trabajo computacional.
