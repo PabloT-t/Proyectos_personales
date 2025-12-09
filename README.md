@@ -7,7 +7,7 @@ de la Faja de Hierro chilena (Mantoverde, Costa Fuego, etc.).
 *Debo aclarar que estos proyectos utilizan IA Generativa como asistente técnico para acelerar la implementación de código y depuración, logrando crear este repositorio en 4-7 dias con diversas aplicaciones. Lo anterior no quita el hecho de que se reviso linea por linea la sintaxis y logica de cada codigo. Mi pensamiento personal, es que las herramientas que pueden acelerar cosas que se hacen en meses a dias, pueden explotarse responsablemente. Porque no sirve tener los mejores datos si no explotamos todo el potencial tecnológico disponible para revelar su valor.*
 
 ## Contenido
-###**Están en revisión para mezclar algunos o complejisarlos un poco más, ya que algunos son muy redundantes**###
+###**Están en revisión para mezclar algunos o complejizarlos un poco más, ya que algunos son muy redundantes**###
 - `Exploracion_1.ipynb`: análisis exploratorio inicial, generación de un modelo simple. Con geoquimica y magnetometria simuladas, se añade tambien cercania
 a fallas como proxy.
 - `Exploracion_2.ipynb`: refinamiento del modelo de exploración, pruebas de distintos escenarios.
